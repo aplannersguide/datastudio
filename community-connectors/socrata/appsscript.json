@@ -1,0 +1,19 @@
+{
+  "timeZone": "America/Chicago",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "Moment",
+      "libraryId": "15hgNOjKHUG4UtyZl9clqBbl23sDvWMS8pfDJOyIapZk5RBqwL3i-rlCo",
+      "version": "9"
+    }]
+  },
+  "dataStudio": {
+    "name": "Socrata",
+    "logoUrl": "http://www.socrata.com/",
+    "company": "Peter Moore",
+    "companyUrl": "http://data.memphistn.gov/",
+    "addonUrl": "http://data.memphistn.gov/",
+    "supportUrl": "http://data.memphistn.gov/",
+    "description": "Connect Data Studio to Socrata Data"
+  }
+}

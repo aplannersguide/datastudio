@@ -1,0 +1,1 @@
+This connector can be used to connect to any Socrata powered open data portal and pull in any open dataset into Google DataStudio.
